@@ -1,4 +1,4 @@
 # FibDataBase
- Database Firebird Gestionale Azienda di Vincenzo Scozzaro
+ Database Firebird per il Gestionale Azienda creato da Vincenzo Scozzaro
  
-  Versione 1.01
+ Versione 1.00
